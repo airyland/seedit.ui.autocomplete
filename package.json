@@ -1,0 +1,27 @@
+{
+    "family": "seedit",
+    "name": "autocomplete",
+    "version": "0.0.1",
+    "description": "The best project ever.",
+    "homepage": "https://github.com/airyland/seedit",
+    "author": "airyland",
+    "maintainers": [
+        "airyland"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/airyland/seedit.git"
+    },
+    "bugs": {
+        "url": ""
+    },
+    "keywords": [],
+    "licenses": "MIT",
+    "include": "all",
+    "spm": {
+        "output": ["autocomplete.js","autocomplete.css"],
+        "alias": {},
+        "devAlias": {},
+        "engines": {}
+    }
+}
